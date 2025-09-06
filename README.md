@@ -16,7 +16,7 @@ This GitHub repository hosts my personal portfolio of **systems** and **scripts*
 Groups or Experiences that I have contributed to:
 - **Maccies**: https://www.roblox.com/communities/33883414/Maccies-FastFood-LTD#!/about 
 - **Rampage**: https://www.roblox.com/games/130788295134181/UPD-2-5-Rampage
-- **Blow it!: https://www.roblox.com/games/86567035636660/NEW-Blow-It
+- **Blow it!**: https://www.roblox.com/games/86567035636660/NEW-Blow-It
 
 ## Skills
 
