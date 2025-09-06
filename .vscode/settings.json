@@ -1,0 +1,15 @@
+{
+    "[lua]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua",
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4,
+        "editor.wordWrap": "on"
+    },
+
+    "[luau]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua",
+        "editor.formatOnSave": true
+    },
+}

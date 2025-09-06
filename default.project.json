@@ -1,0 +1,26 @@
+{
+  "name": "Portfolio",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages",
+        "$ignoreUnknownInstances": true
+      }
+    },
+
+    "ServerScriptService": {
+      "$path": "src/server",
+       "$ignoreUnknownInstances": true
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/client",
+         "$ignoreUnknownInstances": true
+      }
+    }
+    
+  }
+}
